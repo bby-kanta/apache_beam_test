@@ -1,6 +1,9 @@
 # 説明
 Apache Beamの動作確認をするために簡単にApache Beamをローカルで動かす環境です。
+
 input.txtの行毎に文字数を計算して、output.txtに出力します。
+
+[参考](https://qiita.com/esakik/items/3c5c18d4a645db7a8634)
 
 # 必須ツール
 rye
